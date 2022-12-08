@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "concurrently": "^3.5.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "socket.io": "^2.1.0",
     "twilio": "^3.17.0"
   }
